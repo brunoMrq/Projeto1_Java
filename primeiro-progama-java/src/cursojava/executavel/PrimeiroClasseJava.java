@@ -7,5 +7,6 @@ public class PrimeiroClasseJava {
 		
 		/*Escreve texto no console*/
 		System.out.println("Hello Word !!!");
+		System.out.println("É nois !!!");
 	}
 }
