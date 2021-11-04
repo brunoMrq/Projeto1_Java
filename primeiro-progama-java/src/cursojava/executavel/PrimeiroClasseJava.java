@@ -9,5 +9,6 @@ public class PrimeiroClasseJava {
 		System.out.println("Hello Word !!!");
 		System.out.println("É nois !!!");
 		System.out.println("Blink Do");
+		System.out.println("Verificando as merdas");
 	}
 }
